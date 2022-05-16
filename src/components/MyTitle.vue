@@ -1,6 +1,6 @@
 <template>
   <div>
-      Titolo
+    La mia prima app con Vue CLI!
   </div>
 </template>
 
